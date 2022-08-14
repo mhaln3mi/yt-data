@@ -1,0 +1,67 @@
+authorname,Comments
+louisdavid,I just wanted to tell you that you are an excellent popularizer. You explain clearly and do it step by step. Thank you man!
+Susan McBride,"Hey man. This worked incredibly well but when I used this with python for a video with around 100+ comments, I only got an output of around 20 or so comments. How can I make sure that every single comment from the video is given in the output?"
+L. Barrera,"Hello and thanks again. In the example, you mentioned you grabbed slightly over 400 comments out of 550. Although this may be totally satisfactory in many cases, there some others were you need ALL comments.  Can this be achieved using the methodology you are explaining?  Other: you mention snippets (which may or may not content the whole comment). Is there a way to extract the entire comment?"
+georgebalbino,Great video and super clear explanation. Thank you for sharing.
+TJ,"Great video! Was looking to learn more about YouTube comment scrapping and this was clear, concise, and very well presented. Thanks for sharing, great job on the video!"
+coscorrodrift,"Very interesting. Do you know why it returned that empty array? I am getting the same thing, but I'm not sure why. I personally want to grab the comments I have made (like this one) using my channel ID, like the ""my comment history"" part on youtube, but using the API, and I'm clueless as to how. I assume the functionality has to be there but IDK if it's because I'm not doing OAuth2 (i tried it but it kept giving errors) and it's restricted just for that, or if i'm not passing the right params or what"
+Chora API,"Thank you!!!
+Your example is fantastic.
+I connect in my account because your video."
+L. Barrera,Your videos are really good. Congratulations. Subscribed!
+Werther's Original,"I've tried to download comments from a channel going the comment thread route video by video over the API, but I quickly hit my daily quota. Going the channel route towards the end of your video, does that help out with the quota limitation?"
+Nate Lawrence,"11:58 Hi, Steve, does the API allow us to download comments on a channel's Community Posts (the text and/or image posts found under a channel's 'Community' tab)?
+I am attempting to make a backup of people's discussions on a ~700K subscriber channel which is going to be deleted on the 4th of July."
+ms. Rama,"very useful to start with , thank you"
+Albert 312,"Hi, Thank you so much for sharing your knowledge with us.
+btw I want to scrape emails from youtube comments. Is there any way to do that?"
+The New Yorker,"Thank you for the video, does this method work with a YouTube chat for a past livestream?"
+KiemPlant,"Wow, I was convinced YouTube wouldn't have such an API and here I was using selenium for browser automation when I literally could've just done this."
+Real Fire961,"if youtube has a quota on the number of daily calls you can make, how does your business tend to all your customers without going over that limit?"
+Shola Abidoye,It would be epic to create a word cloud of this data 🔥 🔥 🔥
+Paulo Buenaflor,"Question, in extracting the comments and replies, should the API key be from the account connected with the Channel ID?"
+CardanoTV,Great video!
+TheNYgolfer,"May I suggest that you clearly define what the subject is before talking about it.  That would help those who don't know what it is to ""scrape"" comments and came here to find out.  Thanks ."
+Mohammed 98,Hi brother I liked your Channel I just wantd to ask you can we scape emails from any comments in YouTube Is there any technical way or python library can do that please help
+Sequential Geek,"Does anyone know what the specific steps are to find out how to setup auto-delete comments after three months, please?"
+not THAT Falcon Coin,can you do a tutorial on how we could use your service as a random comment picker?   add in they must be subscriber and a search term!
+Mayur Rahul,"How are you not limited by Quota error ? please tell on this, how to solve this."
+Yoan Amri Akbar,Do you have tutorial about scraping comment in instagram post?
+Adil Neves,"man genius!!! is there a way to create something that has a user friendly interface, but allow you to reply to all the comments of your video using the sheet a date to filter out comments that have zero like for example."
+Ak Dv,Sir how to scrape others YouTube subscriber emails?
+TheTruthsayer,Can the I use the api to scrap a particular channel with hundreds of videos for a particular comment?
+KingCobra,i want to scrape a list of about 40k followers between two Instagram accounts. Does the premium/plus plan support this?
+Huong Ly,"Hi there, any chance to get the notification of all newest comments and replies from a video on Youtube? Say I am learning sth, I watch a video about it and I also want to keep following all newest comments of that video so that I can discuss with them about it."
+gurpreet singh,"Sir, I have a challenge for you to extract pdf data, if you accept my challenge then message me."
+Jolene Lee,"Hi, does that mean i can recover deleted youtube comment?"
+Anze Sterbenc,nice video
+M K,I cannot even add a public reply to comments!! Wtf!? I can only add comments but not reply to other people's comments. Smh.
+Claudio Cronin,This is the start of a comment thread.
+MOIN MULLA,This is the start of a comment thread.
+Lihini Jinanjalie,"{
+  ""error"": {
+    ""code"": 400,
+    ""message"": ""'id.snippet.replies'"",
+    ""errors"": [
+      {
+        ""message"": ""'id.snippet.replies'"",
+        ""domain"": ""youtube.part"",
+        ""reason"": ""unknownPart"",
+        ""location"": ""part"",
+        ""locationType"": ""parameter""
+      }
+    ]
+  }
+}
+
+I faced to this error. how can I solve it...?"
+سر الحضارات,Can you teach us how make reply on all commants one time ago
+Wahyu Styn,Why click execute : error code 400 ?
+Binod Pratap Singh,"I scrapped comments using google sheets but I am able to scrape ony upto 50K comments 
+as their is a cape of 6 min how to scrap all comments from Mr beast channel which have over 150K comments"
+Career Use,Wow first 10 seconds and you have lied to me. . . how dare you!
+Tannu Mannu Creation,You are best those who like stevesie like kar do
+ahmed zahid,Hi From Pakistan
+ahmed zahid,Hi From PYCHARM
+Gaurav Bajaj,hi
+ahmed zahid,Reply Hi From PYCHARM
